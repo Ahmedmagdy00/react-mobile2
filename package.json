@@ -1,8 +1,8 @@
 {
-  "name": "reactmobile",
+  "name": "react-mobile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ahmedmagdy00.github.io/reactmobile/",
+  "homepage": "https://ahmedmagdy00.github.io/react_mobile/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@testing-library/jest-dom": "^5.14.1",
